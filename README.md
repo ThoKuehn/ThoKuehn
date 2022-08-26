@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ThoKuehn
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning PowerShell
-- 💞️ I’m looking to collaborate on PowerShell C++ Java
 - 📫 How to reach me ...
 
 <!---
